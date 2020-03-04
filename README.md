@@ -20,17 +20,17 @@
 $ git clone git@https://github.com/gispatial/TripCarteFrontity.git 
 
 ```
-3. CD to the cloned directory:
+2. CD to the cloned directory:
 
 ```
 $ yarn
 
 ```
 
-$ yarn start
+3. After yarn or npm installation:
 
 ```
-
+$ yarn start
 It will load to http://localhost:3000/
 
 
