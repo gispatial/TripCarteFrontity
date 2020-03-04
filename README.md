@@ -11,9 +11,8 @@ $ git clone git@https://github.com/gispatial/TripCarteFrontity.git
 ```
 $ yarn
 ```
-$ yarn start
-
-Load to localhost:3000
+load to http://localhost:3000/
+```
 
 -------
 # Screenshots
