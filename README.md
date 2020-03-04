@@ -11,10 +11,10 @@ $ git clone git@https://github.com/gispatial/TripCarteFrontity.git
 ```
 $ yarn
 ```
-load to http://localhost:3000/
+$ yarn start
 ```
+It will load to http://localhost:3000/
 
--------
 # Screenshots
  <img src="https://github.com/gispatial/TripCarteFrontity/blob/master/Screenshot%202020-03-04%20at%207.54.52%20PM.png" width="100%">
  ....
