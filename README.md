@@ -27,6 +27,10 @@ $ yarn
 
 ```
 
+$ yarn start
+
+```
+
 It will load to http://localhost:3000/
 
 
